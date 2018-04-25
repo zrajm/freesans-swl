@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524664481
+ModificationTime: 1524667391
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -292,7 +292,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2544 16 11
+WinInfo: 1856 16 11
 BeginPrivate: 9
 UniqueID 7 5020902
 BlueValues 31 [-24 0 524 540 700 709 729 741]
@@ -315,7 +315,7 @@ Grid
  1999 416 l 1024
 EndSplineSet
 AnchorClass2: "dev-candrabindu" "'abvm' Above Base Mark in Devanagari-candrabindu" "dev-anusvara" "'abvm' Above Base Mark in Devanagari-anusvara" "beng-matra" "'blwm' Below Base Mark in Bengali-matra" "beng-nukta" "'blwm' Below Base Mark in Bengali-nukta" "dev-rakaar" "'blwm' Below Base Mark in Devanagari subtable" "dev-belowmark" "'mkmk' Mark to Mark in Devanagari-above" "mlm-reph" "'abvm' Above Base Mark in Malayalam-reph" "mlm-below" "'blwm' Below Base Mark in Malay+AQEA-lam-1" "guj-nukta" "'blwm' Below Base Mark in Gujarati-nukta" "gur-top-mid" "'abvm' Above Base Mark in Gurmukhi-mid" "gur-nukta" "'blwm' Below Base Mark in Gurmukhi-nukta" "gur-top-mkmk" "'mkmk' Mark to Mark in Gurmukhi" "gur-below-mid" "'blwm' Below Base Mark in Gurmukhi mid" "guru_above" "'abvm' Above Base Mark in Gurmukhi subtable" "guru_below" "'blwm' Below Base Mark in Gurmukhi subtable" "syr_below" "'mark' Mark Positioning in Syriac subtable" "syr_above" "'mark' Mark Positioning in Syriac subtable" "above_mid_heb" "'mark' Mark Positioning in Hebrew subtable" "vowel_below_yiddish" "'mark' Mark Positioning in Yiddish" "vowel_above_heb" "'mark' Mark Positioning in Hebrew subtable" "vowel_left_heb" "'mark' Mark Positioning in Hebrew subtable" "vowel_below_heb" "'mark' Mark Positioning in Hebrew 2 subtable" "abovemk_cyr" "'mkmk' Mark to Mark in Cyrillic subtable" "topright" "'mark' Mark Positioning in Latin 2 subtable" "abovecyr" "'mark' Mark Positioning in Cyrillic subtable" "middle" "'mark' Mark Positioning subtable" "ogonek" "'mark' Mark Positioning in Latin subtable 2" "dev_above" "'abvm' Above Base Mark in Devanagari subtable" "gujr-0" "'abvm' Above Base Mark in Gujarati subtable" "dev_below" "'blwm' Below Base Mark in Devanagari subtable" "gujr-1" "'blwm' Below Base Mark in Gujarati subtable" "above" "'mark' Mark Positioning in Latin 1 subtable" "below" "'mark' Mark Positioning in Latin subtable"
-BeginChars: 69525 6272
+BeginChars: 69525 6528
 
 StartChar: space
 Encoding: 32 32 0
@@ -194632,6 +194632,1798 @@ EndSplineSet
 Validated: 3073
 LCarets2: 1 0
 Ligature2: "'vatu' Vattu Variants in Devanagari 2 subtable" kadeva dev_rakaar
+EndChar
+
+StartChar: NameMe.1872
+Encoding: 1872 1100032 6272
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1873
+Encoding: 1873 1100033 6273
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1874
+Encoding: 1874 1100034 6274
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1875
+Encoding: 1875 1100035 6275
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1876
+Encoding: 1876 1100036 6276
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1877
+Encoding: 1877 1100037 6277
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1878
+Encoding: 1878 1100038 6278
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1879
+Encoding: 1879 1100039 6279
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1880
+Encoding: 1880 1100040 6280
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1881
+Encoding: 1881 1100041 6281
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1882
+Encoding: 1882 1100042 6282
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1883
+Encoding: 1883 1100043 6283
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1884
+Encoding: 1884 1100044 6284
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1885
+Encoding: 1885 1100045 6285
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1886
+Encoding: 1886 1100046 6286
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1887
+Encoding: 1887 1100047 6287
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1888
+Encoding: 1888 1100048 6288
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1889
+Encoding: 1889 1100049 6289
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1890
+Encoding: 1890 1100050 6290
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1891
+Encoding: 1891 1100051 6291
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1892
+Encoding: 1892 1100052 6292
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1893
+Encoding: 1893 1100053 6293
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1894
+Encoding: 1894 1100054 6294
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1895
+Encoding: 1895 1100055 6295
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1896
+Encoding: 1896 1100056 6296
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1897
+Encoding: 1897 1100057 6297
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1898
+Encoding: 1898 1100058 6298
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1899
+Encoding: 1899 1100059 6299
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1900
+Encoding: 1900 1100060 6300
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1901
+Encoding: 1901 1100061 6301
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1902
+Encoding: 1902 1100062 6302
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1903
+Encoding: 1903 1100063 6303
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1904
+Encoding: 1904 1100064 6304
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1905
+Encoding: 1905 1100065 6305
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1906
+Encoding: 1906 1100066 6306
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1907
+Encoding: 1907 1100067 6307
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1908
+Encoding: 1908 1100068 6308
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1909
+Encoding: 1909 1100069 6309
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1910
+Encoding: 1910 1100070 6310
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1911
+Encoding: 1911 1100071 6311
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1912
+Encoding: 1912 1100072 6312
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1913
+Encoding: 1913 1100073 6313
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1914
+Encoding: 1914 1100074 6314
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1915
+Encoding: 1915 1100075 6315
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1916
+Encoding: 1916 1100076 6316
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1917
+Encoding: 1917 1100077 6317
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1918
+Encoding: 1918 1100078 6318
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1919
+Encoding: 1919 1100079 6319
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1920
+Encoding: 1920 1100080 6320
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1921
+Encoding: 1921 1100081 6321
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1922
+Encoding: 1922 1100082 6322
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1923
+Encoding: 1923 1100083 6323
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1924
+Encoding: 1924 1100084 6324
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1925
+Encoding: 1925 1100085 6325
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1926
+Encoding: 1926 1100086 6326
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1927
+Encoding: 1927 1100087 6327
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1928
+Encoding: 1928 1100088 6328
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1929
+Encoding: 1929 1100089 6329
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1930
+Encoding: 1930 1100090 6330
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1931
+Encoding: 1931 1100091 6331
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1932
+Encoding: 1932 1100092 6332
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1933
+Encoding: 1933 1100093 6333
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1934
+Encoding: 1934 1100094 6334
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1935
+Encoding: 1935 1100095 6335
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1936
+Encoding: 1936 1100096 6336
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1937
+Encoding: 1937 1100097 6337
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1938
+Encoding: 1938 1100098 6338
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1939
+Encoding: 1939 1100099 6339
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1940
+Encoding: 1940 1100100 6340
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1941
+Encoding: 1941 1100101 6341
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1942
+Encoding: 1942 1100102 6342
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1943
+Encoding: 1943 1100103 6343
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1944
+Encoding: 1944 1100104 6344
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1945
+Encoding: 1945 1100105 6345
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1946
+Encoding: 1946 1100106 6346
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1947
+Encoding: 1947 1100107 6347
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1948
+Encoding: 1948 1100108 6348
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1949
+Encoding: 1949 1100109 6349
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1950
+Encoding: 1950 1100110 6350
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1951
+Encoding: 1951 1100111 6351
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1952
+Encoding: 1952 1100112 6352
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1953
+Encoding: 1953 1100113 6353
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1954
+Encoding: 1954 1100114 6354
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1955
+Encoding: 1955 1100115 6355
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1956
+Encoding: 1956 1100116 6356
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1957
+Encoding: 1957 1100117 6357
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1958
+Encoding: 1958 1100118 6358
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1959
+Encoding: 1959 1100119 6359
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1960
+Encoding: 1960 1100120 6360
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1961
+Encoding: 1961 1100121 6361
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1962
+Encoding: 1962 1100122 6362
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1963
+Encoding: 1963 1100123 6363
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1964
+Encoding: 1964 1100124 6364
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1965
+Encoding: 1965 1100125 6365
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1966
+Encoding: 1966 1100126 6366
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1967
+Encoding: 1967 1100127 6367
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1968
+Encoding: 1968 1100128 6368
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1969
+Encoding: 1969 1100129 6369
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1970
+Encoding: 1970 1100130 6370
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1971
+Encoding: 1971 1100131 6371
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1972
+Encoding: 1972 1100132 6372
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1973
+Encoding: 1973 1100133 6373
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1974
+Encoding: 1974 1100134 6374
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1975
+Encoding: 1975 1100135 6375
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1976
+Encoding: 1976 1100136 6376
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1977
+Encoding: 1977 1100137 6377
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1978
+Encoding: 1978 1100138 6378
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1979
+Encoding: 1979 1100139 6379
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1980
+Encoding: 1980 1100140 6380
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1981
+Encoding: 1981 1100141 6381
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1982
+Encoding: 1982 1100142 6382
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1983
+Encoding: 1983 1100143 6383
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1984
+Encoding: 1984 1100144 6384
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1985
+Encoding: 1985 1100145 6385
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1986
+Encoding: 1986 1100146 6386
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1987
+Encoding: 1987 1100147 6387
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1988
+Encoding: 1988 1100148 6388
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1989
+Encoding: 1989 1100149 6389
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1990
+Encoding: 1990 1100150 6390
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1991
+Encoding: 1991 1100151 6391
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1992
+Encoding: 1992 1100152 6392
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1993
+Encoding: 1993 1100153 6393
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1994
+Encoding: 1994 1100154 6394
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1995
+Encoding: 1995 1100155 6395
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1996
+Encoding: 1996 1100156 6396
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1997
+Encoding: 1997 1100157 6397
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1998
+Encoding: 1998 1100158 6398
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.1999
+Encoding: 1999 1100159 6399
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2000
+Encoding: 2000 1100160 6400
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2001
+Encoding: 2001 1100161 6401
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2002
+Encoding: 2002 1100162 6402
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2003
+Encoding: 2003 1100163 6403
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2004
+Encoding: 2004 1100164 6404
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2005
+Encoding: 2005 1100165 6405
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2006
+Encoding: 2006 1100166 6406
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2007
+Encoding: 2007 1100167 6407
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2008
+Encoding: 2008 1100168 6408
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2009
+Encoding: 2009 1100169 6409
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2010
+Encoding: 2010 1100170 6410
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2011
+Encoding: 2011 1100171 6411
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2012
+Encoding: 2012 1100172 6412
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2013
+Encoding: 2013 1100173 6413
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2014
+Encoding: 2014 1100174 6414
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2015
+Encoding: 2015 1100175 6415
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2016
+Encoding: 2016 1100176 6416
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2017
+Encoding: 2017 1100177 6417
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2018
+Encoding: 2018 1100178 6418
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2019
+Encoding: 2019 1100179 6419
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2020
+Encoding: 2020 1100180 6420
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2021
+Encoding: 2021 1100181 6421
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2022
+Encoding: 2022 1100182 6422
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2023
+Encoding: 2023 1100183 6423
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2024
+Encoding: 2024 1100184 6424
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2025
+Encoding: 2025 1100185 6425
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2026
+Encoding: 2026 1100186 6426
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2027
+Encoding: 2027 1100187 6427
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2028
+Encoding: 2028 1100188 6428
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2029
+Encoding: 2029 1100189 6429
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2030
+Encoding: 2030 1100190 6430
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2031
+Encoding: 2031 1100191 6431
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2032
+Encoding: 2032 1100192 6432
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2033
+Encoding: 2033 1100193 6433
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2034
+Encoding: 2034 1100194 6434
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2035
+Encoding: 2035 1100195 6435
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2036
+Encoding: 2036 1100196 6436
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2037
+Encoding: 2037 1100197 6437
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2038
+Encoding: 2038 1100198 6438
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2039
+Encoding: 2039 1100199 6439
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2040
+Encoding: 2040 1100200 6440
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2041
+Encoding: 2041 1100201 6441
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2042
+Encoding: 2042 1100202 6442
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2043
+Encoding: 2043 1100203 6443
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2044
+Encoding: 2044 1100204 6444
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2045
+Encoding: 2045 1100205 6445
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2046
+Encoding: 2046 1100206 6446
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2047
+Encoding: 2047 1100207 6447
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2048
+Encoding: 2048 1100208 6448
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2049
+Encoding: 2049 1100209 6449
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2050
+Encoding: 2050 1100210 6450
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2051
+Encoding: 2051 1100211 6451
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2052
+Encoding: 2052 1100212 6452
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2053
+Encoding: 2053 1100213 6453
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2054
+Encoding: 2054 1100214 6454
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2055
+Encoding: 2055 1100215 6455
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2056
+Encoding: 2056 1100216 6456
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2057
+Encoding: 2057 1100217 6457
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2058
+Encoding: 2058 1100218 6458
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2059
+Encoding: 2059 1100219 6459
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2060
+Encoding: 2060 1100220 6460
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2061
+Encoding: 2061 1100221 6461
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2062
+Encoding: 2062 1100222 6462
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2063
+Encoding: 2063 1100223 6463
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2064
+Encoding: 2064 1100224 6464
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2065
+Encoding: 2065 1100225 6465
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2066
+Encoding: 2066 1100226 6466
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2067
+Encoding: 2067 1100227 6467
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2068
+Encoding: 2068 1100228 6468
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2069
+Encoding: 2069 1100229 6469
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2070
+Encoding: 2070 1100230 6470
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2071
+Encoding: 2071 1100231 6471
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2072
+Encoding: 2072 1100232 6472
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2073
+Encoding: 2073 1100233 6473
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2074
+Encoding: 2074 1100234 6474
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2075
+Encoding: 2075 1100235 6475
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2076
+Encoding: 2076 1100236 6476
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2077
+Encoding: 2077 1100237 6477
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2078
+Encoding: 2078 1100238 6478
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2079
+Encoding: 2079 1100239 6479
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2080
+Encoding: 2080 1100240 6480
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2081
+Encoding: 2081 1100241 6481
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2082
+Encoding: 2082 1100242 6482
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2083
+Encoding: 2083 1100243 6483
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2084
+Encoding: 2084 1100244 6484
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2085
+Encoding: 2085 1100245 6485
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2086
+Encoding: 2086 1100246 6486
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2087
+Encoding: 2087 1100247 6487
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2088
+Encoding: 2088 1100248 6488
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2089
+Encoding: 2089 1100249 6489
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2090
+Encoding: 2090 1100250 6490
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2091
+Encoding: 2091 1100251 6491
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2092
+Encoding: 2092 1100252 6492
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2093
+Encoding: 2093 1100253 6493
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2094
+Encoding: 2094 1100254 6494
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2095
+Encoding: 2095 1100255 6495
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2096
+Encoding: 2096 1100256 6496
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2097
+Encoding: 2097 1100257 6497
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2098
+Encoding: 2098 1100258 6498
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2099
+Encoding: 2099 1100259 6499
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2100
+Encoding: 2100 1100260 6500
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2101
+Encoding: 2101 1100261 6501
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2102
+Encoding: 2102 1100262 6502
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2103
+Encoding: 2103 1100263 6503
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2104
+Encoding: 2104 1100264 6504
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2105
+Encoding: 2105 1100265 6505
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2106
+Encoding: 2106 1100266 6506
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2107
+Encoding: 2107 1100267 6507
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2108
+Encoding: 2108 1100268 6508
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2109
+Encoding: 2109 1100269 6509
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2110
+Encoding: 2110 1100270 6510
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2111
+Encoding: 2111 1100271 6511
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2112
+Encoding: 2112 1100272 6512
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2113
+Encoding: 2113 1100273 6513
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2114
+Encoding: 2114 1100274 6514
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2115
+Encoding: 2115 1100275 6515
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2116
+Encoding: 2116 1100276 6516
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2117
+Encoding: 2117 1100277 6517
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2118
+Encoding: 2118 1100278 6518
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2119
+Encoding: 2119 1100279 6519
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2120
+Encoding: 2120 1100280 6520
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2121
+Encoding: 2121 1100281 6521
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2122
+Encoding: 2122 1100282 6522
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2123
+Encoding: 2123 1100283 6523
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2124
+Encoding: 2124 1100284 6524
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2125
+Encoding: 2125 1100285 6525
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2126
+Encoding: 2126 1100286 6526
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: NameMe.2127
+Encoding: 2127 1100287 6527
+Width: 0
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
