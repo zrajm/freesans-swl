@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524669247
+ModificationTime: 1524671227
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194636,1794 +194636,2306 @@ EndChar
 
 StartChar: position_crown
 Encoding: 1872 1100032 6272
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C901
 Encoding: 1873 1100033 6273
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_face_upper
 Encoding: 1874 1100034 6274
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_forehead
 Encoding: 1875 1100035 6275
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_eyes
 Encoding: 1876 1100036 6276
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_eye
 Encoding: 1877 1100037 6277
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_face
 Encoding: 1878 1100038 6278
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_ear_right
 Encoding: 1879 1100039 6279
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_ear_left
 Encoding: 1880 1100040 6280
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_cheeks
 Encoding: 1881 1100041 6281
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_cheek_right
 Encoding: 1882 1100042 6282
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_cheek_left
 Encoding: 1883 1100043 6283
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_mouth
 Encoding: 1884 1100044 6284
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C90D
 Encoding: 1885 1100045 6285
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_small_o
 Encoding: 1886 1100046 6286
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C90F
 Encoding: 1887 1100047 6287
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C910
 Encoding: 1888 1100048 6288
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_arm_upper
 Encoding: 1889 1100049 6289
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_arm_lower
 Encoding: 1890 1100050 6290
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_chest
 Encoding: 1891 1100051 6291
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_chest_right
 Encoding: 1892 1100052 6292
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_chest_left
 Encoding: 1893 1100053 6293
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_stomach
 Encoding: 1894 1100054 6294
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_hips
 Encoding: 1895 1100055 6295
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_hip_right
 Encoding: 1896 1100056 6296
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_hip_left
 Encoding: 1897 1100057 6297
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_leg
 Encoding: 1898 1100058 6298
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_chin
 Encoding: 1899 1100059 6299
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_neck_back
 Encoding: 1900 1100060 6300
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C91D
 Encoding: 1901 1100061 6301
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_neck_front
 Encoding: 1902 1100062 6302
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_contact
 Encoding: 1903 1100063 6303
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_shoulders
 Encoding: 1904 1100064 6304
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_shoulder_right
 Encoding: 1905 1100065 6305
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_flat
 Encoding: 1906 1100066 6306
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_angled
 Encoding: 1907 1100067 6307
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_a
 Encoding: 1908 1100068 6308
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_claw
 Encoding: 1909 1100069 6309
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_fist
 Encoding: 1910 1100070 6310
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_thumb
 Encoding: 1911 1100071 6311
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_l
 Encoding: 1912 1100072 6312
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_pinch
 Encoding: 1913 1100073 6313
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_hook_finger
 Encoding: 1914 1100074 6314
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_holding
 Encoding: 1915 1100075 6315
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_middle_finger
 Encoding: 1916 1100076 6316
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_v
 Encoding: 1917 1100077 6317
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_rooster
 Encoding: 1918 1100078 6318
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_rooster_bent
 Encoding: 1919 1100079 6319
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_w
 Encoding: 1920 1100080 6320
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_little_finger
 Encoding: 1921 1100081 6321
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_pinch_large
 Encoding: 1922 1100082 6322
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_x
 Encoding: 1923 1100083 6323
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_forward
 Encoding: 1924 1100084 6324
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_upward
 Encoding: 1925 1100085 6325
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_leftward
 Encoding: 1926 1100086 6326
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_forward
 Encoding: 1927 1100087 6327
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_upward
 Encoding: 1928 1100088 6328
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: relation_above
 Encoding: 1929 1100089 6329
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: relation_beside
 Encoding: 1930 1100090 6330
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: relation_behind
 Encoding: 1931 1100091 6331
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_nose
 Encoding: 1932 1100092 6332
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_hook_double
 Encoding: 1933 1100093 6333
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_ears
 Encoding: 1934 1100094 6334
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_m
 Encoding: 1935 1100095 6335
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_shoulder_left
 Encoding: 1936 1100096 6336
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C941
 Encoding: 1937 1100097 6337
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_flat_with_thumb
 Encoding: 1938 1100098 6338
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_spread
 Encoding: 1939 1100099 6339
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_angled_with_thumb
 Encoding: 1940 1100100 6340
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_s
 Encoding: 1941 1100101 6341
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_o
 Encoding: 1942 1100102 6342
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_e
 Encoding: 1943 1100103 6343
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_index_finger
 Encoding: 1944 1100104 6344
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_measure_straight
 Encoding: 1945 1100105 6345
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_t
 Encoding: 1946 1100106 6346
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_measure
 Encoding: 1947 1100107 6347
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_n
 Encoding: 1948 1100108 6348
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C94D
 Encoding: 1949 1100109 6349
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_k
 Encoding: 1950 1100110 6350
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C94F
 Encoding: 1951 1100111 6351
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C950
 Encoding: 1952 1100112 6352
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_flyer
 Encoding: 1953 1100113 6353
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_middle_finger_large
 Encoding: 1954 1100114 6354
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_leftward
 Encoding: 1955 1100115 6355
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_rightward
 Encoding: 1956 1100116 6356
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_backward
 Encoding: 1957 1100117 6357
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_pointed_downward
 Encoding: 1958 1100118 6358
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_rightward
 Encoding: 1959 1100119 6359
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_backward
 Encoding: 1960 1100120 6360
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: attitude_turned_downward
 Encoding: 1961 1100121 6361
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: relation_below
 Encoding: 1962 1100122 6362
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: relation_ahead
 Encoding: 1963 1100123 6363
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_arm
 Encoding: 1964 1100124 6364
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C95D
 Encoding: 1965 1100125 6365
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_face_lower
 Encoding: 1966 1100126 6366
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_middle_finger_round
 Encoding: 1967 1100127 6367
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: other_separator_segments
 Encoding: 1968 1100128 6368
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_medial_contact
 Encoding: 1969 1100129 6369
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_leftward
 Encoding: 1970 1100130 6370
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_rightward
 Encoding: 1971 1100131 6371
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_sideways
 Encoding: 1972 1100132 6372
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_depthwise
 Encoding: 1973 1100133 6373
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_upward
 Encoding: 1974 1100134 6374
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_downward
 Encoding: 1975 1100135 6375
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_vertically
 Encoding: 1976 1100136 6376
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_leftward_short
 Encoding: 1977 1100137 6377
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_rightward_short
 Encoding: 1978 1100138 6378
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_hooking
 Encoding: 1979 1100139 6379
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_exchanging
 Encoding: 1980 1100140 6380
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_entering
 Encoding: 1981 1100141 6381
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_angling
 Encoding: 1982 1100142 6382
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_curving
 Encoding: 1983 1100143 6383
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_circling
 Encoding: 1984 1100144 6384
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_hitting
 Encoding: 1985 1100145 6385
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_twisting
 Encoding: 1986 1100146 6386
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_playing
 Encoding: 1987 1100147 6387
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_strewing
 Encoding: 1988 1100148 6388
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_forward_short
 Encoding: 1989 1100149 6389
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_backward_short
 Encoding: 1990 1100150 6390
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_upward_short
 Encoding: 1991 1100151 6391
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_downward_short
 Encoding: 1992 1100152 6392
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_diverging
 Encoding: 1993 1100153 6393
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_waving
 Encoding: 1994 1100154 6394
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: other_repetition
 Encoding: 1995 1100155 6395
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: other_separator_groups
 Encoding: 1996 1100156 6396
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_rightward
 Encoding: 1997 1100157 6397
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_forward
 Encoding: 1998 1100158 6398
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_upward
 Encoding: 1999 1100159 6399
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_downward
 Encoding: 2000 1100160 6400
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C981
 Encoding: 2001 1100161 6401
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_toward_each_other
 Encoding: 2002 1100162 6402
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_forward
 Encoding: 2003 1100163 6403
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_backward
 Encoding: 2004 1100164 6404
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_converging
 Encoding: 2005 1100165 6405
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_reshaping
 Encoding: 2006 1100166 6406
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_alternating
 Encoding: 2007 1100167 6407
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_leftward
 Encoding: 2008 1100168 6408
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_sideways
 Encoding: 2009 1100169 6409
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_backwards
 Encoding: 2010 1100170 6410
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_depthwise
 Encoding: 2011 1100171 6411
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_vertically
 Encoding: 2012 1100172 6412
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C98D
 Encoding: 2013 1100173 6413
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_crossing
 Encoding: 2014 1100174 6414
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C98F
 Encoding: 2015 1100175 6415
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C990
 Encoding: 2016 1100176 6416
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_held_still
 Encoding: 2017 1100177 6417
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C992
 Encoding: 2018 1100178 6418
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C993
 Encoding: 2019 1100179 6419
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C994
 Encoding: 2020 1100180 6420
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C995
 Encoding: 2021 1100181 6421
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C996
 Encoding: 2022 1100182 6422
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C997
 Encoding: 2023 1100183 6423
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C998
 Encoding: 2024 1100184 6424
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C999
 Encoding: 2025 1100185 6425
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99A
 Encoding: 2026 1100186 6426
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99B
 Encoding: 2027 1100187 6427
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99C
 Encoding: 2028 1100188 6428
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99D
 Encoding: 2029 1100189 6429
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99E
 Encoding: 2030 1100190 6430
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C99F
 Encoding: 2031 1100191 6431
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A0
 Encoding: 2032 1100192 6432
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A1
 Encoding: 2033 1100193 6433
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A2
 Encoding: 2034 1100194 6434
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A3
 Encoding: 2035 1100195 6435
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A4
 Encoding: 2036 1100196 6436
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A5
 Encoding: 2037 1100197 6437
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9A6
 Encoding: 2038 1100198 6438
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: other_abruptly
 Encoding: 2039 1100199 6439
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_bending
 Encoding: 2040 1100200 6440
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: other_separator_hands
 Encoding: 2041 1100201 6441
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_4
 Encoding: 2042 1100202 6442
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_d
 Encoding: 2043 1100203 6443
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_f
 Encoding: 2044 1100204 6444
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_q
 Encoding: 2045 1100205 6445
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_circling_frontal
 Encoding: 2046 1100206 6446
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_circling_horizontal
 Encoding: 2047 1100207 6447
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_circling_sagittal
 Encoding: 2048 1100208 6448
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: handshape_llama
 Encoding: 2049 1100209 6449
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_elbow_pit
 Encoding: 2050 1100210 6450
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: position_neutral_space
 Encoding: 2051 1100211 6451
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_braiding
 Encoding: 2052 1100212 6452
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: modifier_away_from_each_other
 Encoding: 2053 1100213 6453
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: motion_type_bouncing
 Encoding: 2054 1100214 6454
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: interaction_type_medial_contact
 Encoding: 2055 1100215 6455
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9B8
 Encoding: 2056 1100216 6456
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9B9
 Encoding: 2057 1100217 6457
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BA
 Encoding: 2058 1100218 6458
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BB
 Encoding: 2059 1100219 6459
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BC
 Encoding: 2060 1100220 6460
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BD
 Encoding: 2061 1100221 6461
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BE
 Encoding: 2062 1100222 6462
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9BF
 Encoding: 2063 1100223 6463
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C0
 Encoding: 2064 1100224 6464
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C1
 Encoding: 2065 1100225 6465
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C2
 Encoding: 2066 1100226 6466
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C3
 Encoding: 2067 1100227 6467
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C4
 Encoding: 2068 1100228 6468
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C5
 Encoding: 2069 1100229 6469
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C6
 Encoding: 2070 1100230 6470
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C7
 Encoding: 2071 1100231 6471
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C8
 Encoding: 2072 1100232 6472
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9C9
 Encoding: 2073 1100233 6473
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CA
 Encoding: 2074 1100234 6474
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CB
 Encoding: 2075 1100235 6475
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CC
 Encoding: 2076 1100236 6476
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CD
 Encoding: 2077 1100237 6477
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CE
 Encoding: 2078 1100238 6478
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9CF
 Encoding: 2079 1100239 6479
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D0
 Encoding: 2080 1100240 6480
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D1
 Encoding: 2081 1100241 6481
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D2
 Encoding: 2082 1100242 6482
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D3
 Encoding: 2083 1100243 6483
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D4
 Encoding: 2084 1100244 6484
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D5
 Encoding: 2085 1100245 6485
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D6
 Encoding: 2086 1100246 6486
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D7
 Encoding: 2087 1100247 6487
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D8
 Encoding: 2088 1100248 6488
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9D9
 Encoding: 2089 1100249 6489
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DA
 Encoding: 2090 1100250 6490
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DB
 Encoding: 2091 1100251 6491
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DC
 Encoding: 2092 1100252 6492
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DD
 Encoding: 2093 1100253 6493
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4622 9646 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DE
 Encoding: 2094 1100254 6494
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9DF
 Encoding: 2095 1100255 6495
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E0
 Encoding: 2096 1100256 6496
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E1
 Encoding: 2097 1100257 6497
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E2
 Encoding: 2098 1100258 6498
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E3
 Encoding: 2099 1100259 6499
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E4
 Encoding: 2100 1100260 6500
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E5
 Encoding: 2101 1100261 6501
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E6
 Encoding: 2102 1100262 6502
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E7
 Encoding: 2103 1100263 6503
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E8
 Encoding: 2104 1100264 6504
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9E9
 Encoding: 2105 1100265 6505
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9EA
 Encoding: 2106 1100266 6506
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9EB
 Encoding: 2107 1100267 6507
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9EC
 Encoding: 2108 1100268 6508
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9ED
 Encoding: 2109 1100269 6509
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9EE
 Encoding: 2110 1100270 6510
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9EF
 Encoding: 2111 1100271 6511
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F0
 Encoding: 2112 1100272 6512
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F1
 Encoding: 2113 1100273 6513
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F2
 Encoding: 2114 1100274 6514
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F3
 Encoding: 2115 1100275 6515
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F4
 Encoding: 2116 1100276 6516
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F5
 Encoding: 2117 1100277 6517
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F6
 Encoding: 2118 1100278 6518
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F7
 Encoding: 2119 1100279 6519
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F8
 Encoding: 2120 1100280 6520
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9F9
 Encoding: 2121 1100281 6521
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FA
 Encoding: 2122 1100282 6522
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FB
 Encoding: 2123 1100283 6523
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FC
 Encoding: 2124 1100284 6524
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FD
 Encoding: 2125 1100285 6525
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FE
 Encoding: 2126 1100286 6526
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u10C9FF
 Encoding: 2127 1100287 6527
-Width: 0
+Width: 800
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 4634 9647 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
