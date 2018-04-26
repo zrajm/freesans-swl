@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524756425
+ModificationTime: 1524757420
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194651,7 +194651,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: position_face_upper
@@ -194771,7 +194772,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: handshape_small_o
@@ -194791,7 +194793,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C910
@@ -194801,7 +194804,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: position_arm_upper
@@ -194931,7 +194935,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: position_neck_front
@@ -195566,7 +195571,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: handshape_flat_with_thumb
@@ -195795,7 +195801,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: handshape_k
@@ -195832,7 +195839,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C950
@@ -195842,7 +195850,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: handshape_flyer
@@ -195972,7 +195981,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: position_face_lower
@@ -196332,7 +196342,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: modifier_toward_each_other
@@ -196452,7 +196463,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: interaction_type_crossing
@@ -196472,7 +196484,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C990
@@ -196482,7 +196495,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: motion_held_still
@@ -196612,7 +196626,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C99E
@@ -196972,7 +196987,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C9C2
@@ -197092,7 +197108,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C9CE
@@ -197112,7 +197129,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C9D0
@@ -197122,7 +197140,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C9D1
@@ -197252,7 +197271,8 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
-Colour: ffff00
+Comment: "RESERVED: This glyph is reserved in Saa+AWEA-ha Mets+AOQA-rantala's original codepoint assignment."
+Colour: ff0000
 EndChar
 
 StartChar: u10C9DE
