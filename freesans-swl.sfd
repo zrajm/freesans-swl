@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524757848
+ModificationTime: 1524757967
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -196875,12 +196875,29 @@ EndChar
 
 StartChar: handshape_llama
 Encoding: 2049 1100209 6449
-Width: 800
-Flags: HW
+Width: 720
+Flags: HMW
+AnchorPoint: "topright" 596 729 basechar 0
+AnchorPoint: "middle" 358 367 basechar 0
+AnchorPoint: "ogonek" 447 1 basechar 0
+AnchorPoint: "below" 360 0 basechar 0
+AnchorPoint: "above" 360 729 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+547 729 m 1
+ 640 729 l 1
+ 640 217 l 2
+ 640 71 530 -23 359 -23 c 0
+ 186 -23 80 69 80 217 c 2
+ 80 729 l 1
+ 173 729 l 1
+ 173 217 l 2
+ 173 107 252 59 359 59 c 0
+ 476 59 547 119 547 217 c 2
+ 547 729 l 1
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: position_elbow_pit
