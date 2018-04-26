@@ -194641,6 +194641,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C901
@@ -194650,6 +194651,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_face_upper
@@ -194659,6 +194661,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_forehead
@@ -194668,6 +194671,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_eyes
@@ -194677,6 +194681,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_eye
@@ -194686,6 +194691,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_face
@@ -194695,6 +194701,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_ear_right
@@ -194704,6 +194711,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_ear_left
@@ -194713,6 +194721,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_cheeks
@@ -194722,6 +194731,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_cheek_right
@@ -194731,6 +194741,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_cheek_left
@@ -194740,6 +194751,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_mouth
@@ -194749,6 +194761,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C90D
@@ -194758,6 +194771,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_small_o
@@ -194767,6 +194781,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C90F
@@ -194776,6 +194791,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C910
@@ -194785,6 +194801,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_arm_upper
@@ -194794,6 +194811,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_arm_lower
@@ -194803,6 +194821,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_chest
@@ -194812,6 +194831,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_chest_right
@@ -194821,6 +194841,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_chest_left
@@ -194830,6 +194851,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_stomach
@@ -194839,6 +194861,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_hips
@@ -194848,6 +194871,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_hip_right
@@ -194857,6 +194881,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_hip_left
@@ -194866,6 +194891,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_leg
@@ -194875,6 +194901,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_chin
@@ -194884,6 +194911,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_neck_back
@@ -194893,6 +194921,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C91D
@@ -194902,6 +194931,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_neck_front
@@ -194911,6 +194941,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_contact
@@ -194920,6 +194951,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_shoulders
@@ -194929,6 +194961,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_shoulder_right
@@ -194938,6 +194971,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_flat
@@ -194947,6 +194981,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_angled
@@ -194956,6 +194991,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_a
@@ -194965,6 +195001,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_claw
@@ -194974,6 +195011,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_fist
@@ -194983,6 +195021,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_thumb
@@ -194992,6 +195031,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_l
@@ -195001,6 +195041,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_pinch
@@ -195010,6 +195051,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_hook_finger
@@ -195019,6 +195061,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_holding
@@ -195028,6 +195071,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_middle_finger
@@ -195037,6 +195081,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_v
@@ -195046,6 +195091,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_rooster
@@ -195055,6 +195101,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_rooster_bent
@@ -195064,6 +195111,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_w
@@ -195073,6 +195121,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_little_finger
@@ -195082,6 +195131,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_pinch_large
@@ -195091,6 +195141,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_x
@@ -195100,6 +195151,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_forward
@@ -195109,6 +195161,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_upward
@@ -195118,6 +195171,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_leftward
@@ -195127,6 +195181,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_forward
@@ -195136,6 +195191,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_upward
@@ -195145,6 +195201,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: relation_above
@@ -195154,6 +195211,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: relation_beside
@@ -195163,6 +195221,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: relation_behind
@@ -195172,6 +195231,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_nose
@@ -195181,6 +195241,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_hook_double
@@ -195190,6 +195251,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_ears
@@ -195199,6 +195261,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_m
@@ -195208,6 +195271,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_shoulder_left
@@ -195217,6 +195281,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C941
@@ -195226,6 +195291,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_flat_with_thumb
@@ -195235,6 +195301,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_spread
@@ -195244,6 +195311,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_angled_with_thumb
@@ -195253,6 +195321,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_s
@@ -195262,6 +195331,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_o
@@ -195271,6 +195341,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_e
@@ -195280,6 +195351,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_index_finger
@@ -195289,6 +195361,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_measure_straight
@@ -195298,6 +195371,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_t
@@ -195307,6 +195381,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_measure
@@ -195316,6 +195391,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_n
@@ -195325,6 +195401,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C94D
@@ -195334,6 +195411,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_k
@@ -195343,6 +195421,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C94F
@@ -195352,6 +195431,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C950
@@ -195361,6 +195441,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_flyer
@@ -195370,6 +195451,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_middle_finger_large
@@ -195379,6 +195461,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_leftward
@@ -195388,6 +195471,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_rightward
@@ -195397,6 +195481,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_backward
@@ -195406,6 +195491,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_downward
@@ -195415,6 +195501,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_rightward
@@ -195424,6 +195511,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_backward
@@ -195433,6 +195521,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_downward
@@ -195442,6 +195531,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: relation_below
@@ -195451,6 +195541,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: relation_ahead
@@ -195460,6 +195551,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_arm
@@ -195469,6 +195561,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C95D
@@ -195478,6 +195571,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_face_lower
@@ -195487,6 +195581,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_middle_finger_round
@@ -195496,6 +195591,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: other_separator_segments
@@ -195505,6 +195601,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_medial_contact
@@ -195514,6 +195611,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_leftward
@@ -195523,6 +195621,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_rightward
@@ -195532,6 +195631,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_sideways
@@ -195541,6 +195641,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_depthwise
@@ -195550,6 +195651,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_upward
@@ -195559,6 +195661,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_downward
@@ -195568,6 +195671,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_vertically
@@ -195577,6 +195681,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_leftward_short
@@ -195586,6 +195691,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_rightward_short
@@ -195595,6 +195701,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_hooking
@@ -195604,6 +195711,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_exchanging
@@ -195613,6 +195721,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_entering
@@ -195622,6 +195731,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_angling
@@ -195631,6 +195741,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_curving
@@ -195640,6 +195751,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_circling
@@ -195649,6 +195761,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_hitting
@@ -195658,6 +195771,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_twisting
@@ -195667,6 +195781,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_playing
@@ -195676,6 +195791,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_strewing
@@ -195685,6 +195801,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_forward_short
@@ -195694,6 +195811,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_backward_short
@@ -195703,6 +195821,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_upward_short
@@ -195712,6 +195831,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_downward_short
@@ -195721,6 +195841,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_diverging
@@ -195730,6 +195851,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_waving
@@ -195739,6 +195861,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: other_repetition
@@ -195748,6 +195871,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: other_separator_groups
@@ -195757,6 +195881,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_rightward
@@ -195766,6 +195891,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_forward
@@ -195775,6 +195901,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_upward
@@ -195784,6 +195911,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_downward
@@ -195793,6 +195921,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C981
@@ -195802,6 +195931,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_toward_each_other
@@ -195811,6 +195941,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_forward
@@ -195820,6 +195951,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_backward
@@ -195829,6 +195961,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_converging
@@ -195838,6 +195971,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_reshaping
@@ -195847,6 +195981,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_alternating
@@ -195856,6 +195991,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_leftward
@@ -195865,6 +196001,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_sideways
@@ -195874,6 +196011,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_backwards
@@ -195883,6 +196021,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_depthwise
@@ -195892,6 +196031,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_vertically
@@ -195901,6 +196041,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C98D
@@ -195910,6 +196051,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_crossing
@@ -195919,6 +196061,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C98F
@@ -195928,6 +196071,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C990
@@ -195937,6 +196081,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_held_still
@@ -195946,6 +196091,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C992
@@ -195955,6 +196101,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C993
@@ -195964,6 +196111,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C994
@@ -195973,6 +196121,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C995
@@ -195982,6 +196131,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C996
@@ -195991,6 +196141,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C997
@@ -196000,6 +196151,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C998
@@ -196009,6 +196161,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C999
@@ -196018,6 +196171,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99A
@@ -196027,6 +196181,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99B
@@ -196036,6 +196191,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99C
@@ -196045,6 +196201,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99D
@@ -196054,6 +196211,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99E
@@ -196063,6 +196221,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C99F
@@ -196072,6 +196231,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A0
@@ -196081,6 +196241,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A1
@@ -196090,6 +196251,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A2
@@ -196099,6 +196261,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A3
@@ -196108,6 +196271,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A4
@@ -196117,6 +196281,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A5
@@ -196126,6 +196291,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9A6
@@ -196135,6 +196301,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: other_abruptly
@@ -196144,6 +196311,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_bending
@@ -196153,6 +196321,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: other_separator_hands
@@ -196162,6 +196331,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_4
@@ -196171,6 +196341,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_d
@@ -196180,6 +196351,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_f
@@ -196189,6 +196361,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_q
@@ -196198,6 +196371,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_circling_frontal
@@ -196207,6 +196381,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_circling_horizontal
@@ -196216,6 +196391,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_circling_sagittal
@@ -196225,6 +196401,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: handshape_llama
@@ -196234,6 +196411,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_elbow_pit
@@ -196243,6 +196421,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: position_neutral_space
@@ -196252,6 +196431,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_braiding
@@ -196261,6 +196441,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: modifier_away_from_each_other
@@ -196270,6 +196451,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: motion_type_bouncing
@@ -196279,6 +196461,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: interaction_type_medial_contact
@@ -196288,6 +196471,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9B8
@@ -196297,6 +196481,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9B9
@@ -196306,6 +196491,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BA
@@ -196315,6 +196501,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BB
@@ -196324,6 +196511,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BC
@@ -196333,6 +196521,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BD
@@ -196342,6 +196531,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BE
@@ -196351,6 +196541,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9BF
@@ -196360,6 +196551,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C0
@@ -196369,6 +196561,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C1
@@ -196378,6 +196571,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C2
@@ -196387,6 +196581,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C3
@@ -196396,6 +196591,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C4
@@ -196405,6 +196601,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C5
@@ -196414,6 +196611,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C6
@@ -196423,6 +196621,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C7
@@ -196432,6 +196631,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C8
@@ -196441,6 +196641,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9C9
@@ -196450,6 +196651,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CA
@@ -196459,6 +196661,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CB
@@ -196468,6 +196671,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CC
@@ -196477,6 +196681,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CD
@@ -196486,6 +196691,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CE
@@ -196495,6 +196701,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9CF
@@ -196504,6 +196711,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D0
@@ -196513,6 +196721,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D1
@@ -196522,6 +196731,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D2
@@ -196531,6 +196741,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D3
@@ -196540,6 +196751,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D4
@@ -196549,6 +196761,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D5
@@ -196558,6 +196771,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D6
@@ -196567,6 +196781,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D7
@@ -196576,6 +196791,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D8
@@ -196585,6 +196801,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9D9
@@ -196594,6 +196811,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DA
@@ -196603,6 +196821,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DB
@@ -196612,6 +196831,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DC
@@ -196621,6 +196841,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DD
@@ -196630,6 +196851,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4622 9646 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DE
@@ -196639,6 +196861,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9DF
@@ -196648,6 +196871,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E0
@@ -196657,6 +196881,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E1
@@ -196666,6 +196891,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E2
@@ -196675,6 +196901,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E3
@@ -196684,6 +196911,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E4
@@ -196693,6 +196921,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E5
@@ -196702,6 +196931,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E6
@@ -196711,6 +196941,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E7
@@ -196720,6 +196951,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E8
@@ -196729,6 +196961,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9E9
@@ -196738,6 +196971,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9EA
@@ -196747,6 +196981,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9EB
@@ -196756,6 +196991,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9EC
@@ -196765,6 +197001,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9ED
@@ -196774,6 +197011,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9EE
@@ -196783,6 +197021,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9EF
@@ -196792,6 +197031,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F0
@@ -196801,6 +197041,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F1
@@ -196810,6 +197051,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F2
@@ -196819,6 +197061,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F3
@@ -196828,6 +197071,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F4
@@ -196837,6 +197081,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F5
@@ -196846,6 +197091,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F6
@@ -196855,6 +197101,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F7
@@ -196864,6 +197111,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F8
@@ -196873,6 +197121,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9F9
@@ -196882,6 +197131,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FA
@@ -196891,6 +197141,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FB
@@ -196900,6 +197151,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FC
@@ -196909,6 +197161,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FD
@@ -196918,6 +197171,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FE
@@ -196927,6 +197181,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 
 StartChar: u10C9FF
@@ -196936,6 +197191,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 4634 9647 N 1 0 0 1 0 0 2
+Colour: ffff00
 EndChar
 EndChars
 EndSplineFont
