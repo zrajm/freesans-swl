@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524747922
+ModificationTime: 1524751912
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195096,12 +195096,36 @@ EndChar
 
 StartChar: handshape_thumb
 Encoding: 1911 1100071 6311
-Width: 800
-Flags: HW
+Width: 664
+Flags: HMW
+AnchorPoint: "middle" 317 377 basechar 0
+AnchorPoint: "above" 308 729 basechar 0
+AnchorPoint: "below" 315 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+624 208 m 0
+ 624 83 538 0 409 0 c 2
+ 80 0 l 1
+ 80 729 l 1
+ 376 729 l 2
+ 549 729 592 618 592 544 c 0
+ 592 470 557 416 491 385 c 1
+ 584 349 624 296 624 208 c 0
+499 531 m 0
+ 499 625 431 647 353 647 c 2
+ 173 647 l 1
+ 173 415 l 1
+ 353 415 l 2
+ 441 415 499 444 499 531 c 0
+400 82 m 2
+ 505 82 531 156 531 207 c 0
+ 531 281 486 333 400 333 c 2
+ 173 333 l 1
+ 173 82 l 1
+ 400 82 l 2
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: handshape_l
