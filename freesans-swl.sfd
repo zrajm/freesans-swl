@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524722070
+ModificationTime: 1524722725
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195078,12 +195078,28 @@ EndChar
 
 StartChar: handshape_holding
 Encoding: 1915 1100075 6315
-Width: 800
-Flags: HW
+Width: 782
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+744 353 m 0
+ 744 143 610 -23 392 -23 c 0
+ 182 -23 40 131 40 359 c 0
+ 40 587 182 741 391 741 c 0
+ 605 741 744 588 744 353 c 0
+650 385 m 1
+ 640 552 540 659 391 659 c 0
+ 245 659 143 550 134 385 c 1
+ 650 385 l 1
+649 315 m 1
+ 135 315 l 1
+ 151 160 250 59 392 59 c 0
+ 534 59 634 161 649 315 c 1
+EndSplineSet
+Validated: 3073
+Comment: "FIXME: Anchors"
+Colour: ffff
 EndChar
 
 StartChar: handshape_middle_finger
