@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524755372
+ModificationTime: 1524756425
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195183,12 +195183,26 @@ EndChar
 
 StartChar: handshape_hook_finger
 Encoding: 1914 1100074 6314
-Width: 800
+Width: 528
 Flags: HW
+AnchorPoint: "middle" 245 360 basechar 0
+AnchorPoint: "below" 397 0 basechar 0
+AnchorPoint: "above" 238 729 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+239 674 m 0
+ 169 674 130 627 130 542 c 2
+ 130 495 l 1
+ 35 495 l 1
+ 35 559 l 2
+ 35 677 113 752 238 752 c 0
+ 365 752 444 673 444 547 c 2
+ 444 0 l 1
+ 351 0 l 1
+ 351 513 l 2
+ 351 605 330 674 239 674 c 0
+EndSplineSet
 EndChar
 
 StartChar: handshape_holding
