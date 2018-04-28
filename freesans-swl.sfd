@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524940259
+ModificationTime: 1524942101
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195311,12 +195311,36 @@ EndChar
 
 StartChar: handshape_rooster
 Encoding: 1918 1100078 6318
-Width: 800
+Width: 706
 Flags: HW
+AnchorPoint: "middle" 358 360 basechar 0
+AnchorPoint: "below" 363 0 basechar 0
+AnchorPoint: "above" 354 729 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+32 336 m 1
+ 32 414 l 1
+ 147 414 l 1
+ 36 729 l 1
+ 140 729 l 1
+ 247 414 l 1
+ 463 414 l 1
+ 573 729 l 1
+ 672 729 l 1
+ 560 414 l 1
+ 674 414 l 1
+ 674 336 l 1
+ 532 336 l 1
+ 412 0 l 1
+ 292 0 l 1
+ 174 336 l 1
+ 32 336 l 1
+436 336 m 1
+ 273 336 l 1
+ 353 100 l 1
+ 436 336 l 1
+EndSplineSet
 EndChar
 
 StartChar: handshape_rooster_bent
