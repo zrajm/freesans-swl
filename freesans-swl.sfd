@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524929296
+ModificationTime: 1524933661
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194778,12 +194778,27 @@ EndChar
 
 StartChar: handshape_small_o
 Encoding: 1886 1100046 6286
-Width: 800
+Width: 709
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+694 0 m 1
+ 14 0 l 1
+ 283 729 l 1
+ 399 729 l 1
+ 694 0 l 1
+373 84 m 1
+ 556 84 l 1
+ 373 600.352112676 l 1
+ 373 84 l 1
+317 84 m 1
+ 317 604.866666667 l 1
+ 148 84 l 1
+ 317 84 l 1
+EndSplineSet
+Comment: "FIXME: Anchors"
+Colour: ffff
 EndChar
 
 StartChar: u10C90F
