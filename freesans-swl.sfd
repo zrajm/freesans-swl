@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524952523
+ModificationTime: 1524952598
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -129,8 +129,8 @@ Lookup: 260 1 0 "'mark' Mark Positioning in Hebrew 2" { "'mark' Mark Positioning
 Lookup: 260 257 0 "'mark' Mark Positioning in Hebrew" { "'mark' Mark Positioning in Hebrew subtable"  } ['mark' ('hebr' <'IWR ' 'JII ' 'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Cyrillic" { "'mark' Mark Positioning in Cyrillic subtable"  } ['mark' ('cyrl' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark in Cyrillic" { "'mkmk' Mark to Mark in Cyrillic subtable"  } ['mkmk' ('cyrl' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Latin" { "'mark' Mark Positioning in Latin subtable"  "'mark' Mark Positioning in Latin subtable 2"  } ['mark' ('latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Latin 1" { "'mark' Mark Positioning in Latin 1 subtable"  } ['mark' ('latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin" { "'mark' Mark Positioning in Latin subtable"  "'mark' Mark Positioning in Latin subtable 2"  } ['mark' ('latn' <'dflt' > ) 'mark' ('DFLT' <'dflt' > 'armn' <'dflt' > 'beng' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'dev2' <'SAN ' 'dflt' > 'deva' <'SAN ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'guru' <'dflt' > 'hebr' <'IWR ' 'JII ' 'dflt' > 'latn' <'CAT ' 'ISM ' 'LSM ' 'NLD ' 'NSM ' 'SKS ' 'TRK ' 'dflt' > 'mlym' <'dflt' > 'osma' <'dflt' > 'phnx' <'dflt' > 'syrc' <'dflt' > 'tfng' <'dflt' > 'ugar' <'dflt' > 'xpeo' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin 1" { "'mark' Mark Positioning in Latin 1 subtable"  } ['mark' ('latn' <'dflt' > ) 'mark' ('DFLT' <'dflt' > 'armn' <'dflt' > 'beng' <'dflt' > 'cans' <'dflt' > 'cher' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'dev2' <'SAN ' 'dflt' > 'deva' <'SAN ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'guru' <'dflt' > 'hebr' <'IWR ' 'JII ' 'dflt' > 'latn' <'CAT ' 'ISM ' 'LSM ' 'NLD ' 'NSM ' 'SKS ' 'TRK ' 'dflt' > 'mlym' <'dflt' > 'osma' <'dflt' > 'phnx' <'dflt' > 'syrc' <'dflt' > 'tfng' <'dflt' > 'ugar' <'dflt' > 'xpeo' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin 2" { "'mark' Mark Positioning in Latin 2 subtable"  } ['mark' ('latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Mark Positioning subtable"  } ['mark' ('DFLT' <'dflt' > 'armn' <'dflt' > 'beng' <'dflt' > 'bng2' <'dflt' > 'cyrl' <'dflt' > 'dev2' <'dflt' > 'deva' <'dflt' > 'geor' <'dflt' > 'gjr2' <'dflt' > 'grek' <'dflt' > 'gujr' <'dflt' > 'gur2' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > 'phnx' <'dflt' > 'syrc' <'dflt' > 'tml2' <'dflt' > 'ugar' <'dflt' > 'xpeo' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Gujarati" { "'blwm' Below Base Mark in Gujarati-nukta"  "'blwm' Below Base Mark in Gujarati subtable"  } ['blwm' ('gujr' <'dflt' > 'gjr2' <'dflt' > ) ]
