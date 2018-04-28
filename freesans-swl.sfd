@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524952598
+ModificationTime: 1524953966
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194780,6 +194780,9 @@ StartChar: handshape_small_o
 Encoding: 1886 1100046 6286
 Width: 709
 Flags: HW
+AnchorPoint: "middle" 346 303 basechar 0
+AnchorPoint: "below" 351 0 basechar 0
+AnchorPoint: "above" 342 729 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -194797,8 +194800,6 @@ SplineSet
  148 84 l 1
  317 84 l 1
 EndSplineSet
-Comment: "FIXME: Anchors"
-Colour: ffff
 EndChar
 
 StartChar: u10C90F
@@ -195072,6 +195073,9 @@ StartChar: handshape_claw
 Encoding: 1909 1100069 6309
 Width: 636
 Flags: HMW
+AnchorPoint: "below" 326 0 basechar 0
+AnchorPoint: "above" 336 729 basechar 0
+AnchorPoint: "middle" 330 374 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -195090,8 +195094,6 @@ SplineSet
  606 0 l 1
 EndSplineSet
 Validated: 3073
-Comment: "FIXME: Anchors"
-Colour: ffff
 EndChar
 
 StartChar: handshape_fist
@@ -195183,6 +195185,9 @@ StartChar: handshape_pinch
 Encoding: 1913 1100073 6313
 Width: 699
 Flags: HMW
+AnchorPoint: "above" 337 729 basechar 0
+AnchorPoint: "below" 346 0 basechar 0
+AnchorPoint: "middle" 341 303 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -195197,8 +195202,6 @@ SplineSet
  148 84 l 1
 EndSplineSet
 Validated: 3073
-Comment: "FIXME: Anchors"
-Colour: ffff
 EndChar
 
 StartChar: handshape_hook_finger
@@ -195229,6 +195232,9 @@ StartChar: handshape_holding
 Encoding: 1915 1100075 6315
 Width: 782
 Flags: HMW
+AnchorPoint: "above" 392 729 basechar 0
+AnchorPoint: "below" 392 0 basechar 0
+AnchorPoint: "middle" 389 360 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -195247,8 +195253,6 @@ SplineSet
  534 59 634 161 649 315 c 1
 EndSplineSet
 Validated: 3073
-Comment: "FIXME: Anchors"
-Colour: ffff
 EndChar
 
 StartChar: handshape_middle_finger
