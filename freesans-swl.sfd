@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524953966
+ModificationTime: 1524955584
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195024,7 +195024,7 @@ StartChar: handshape_angled
 Encoding: 1907 1100067 6307
 Width: 645
 Flags: HW
-AnchorPoint: "middle" 326 429 basechar 0
+AnchorPoint: "middle" 326 303 basechar 0
 AnchorPoint: "above" 329 729 basechar 0
 AnchorPoint: "below" 329 0 basechar 0
 LayerCount: 2
@@ -195047,7 +195047,6 @@ Width: 666
 Flags: HMW
 AnchorPoint: "middle" 337 303 basechar 0
 AnchorPoint: "below" 342 0 basechar 0
-AnchorPoint: "ogonek" 598 -4 basechar 0
 AnchorPoint: "above" 333 729 basechar 0
 LayerCount: 2
 Fore
@@ -195417,7 +195416,6 @@ Encoding: 1921 1100081 6321
 Width: 278
 Flags: HMW
 AnchorPoint: "middle" 146 360 basechar 0
-AnchorPoint: "ogonek" 146 1 basechar 0
 AnchorPoint: "below" 146 0 basechar 0
 AnchorPoint: "above" 142 729 basechar 0
 LayerCount: 2
@@ -195730,7 +195728,6 @@ Encoding: 1939 1100099 6339
 Width: 678
 Flags: HW
 AnchorPoint: "middle" 343 455 basechar 0
-AnchorPoint: "ogonek" 355 -1 basechar 0
 AnchorPoint: "below" 345 2 basechar 0
 AnchorPoint: "above" 345 731 basechar 0
 LayerCount: 2
@@ -195761,7 +195758,6 @@ Width: 746
 Flags: HW
 AnchorPoint: "middle" 377 303 basechar 0
 AnchorPoint: "below" 382 0 basechar 0
-AnchorPoint: "ogonek" 638 -4 basechar 0
 AnchorPoint: "above" 373 729 basechar 0
 LayerCount: 2
 Fore
@@ -195826,9 +195822,7 @@ StartChar: handshape_o
 Encoding: 1942 1100102 6342
 Width: 784
 Flags: HMW
-AnchorPoint: "topright" 487 729 basechar 0
 AnchorPoint: "middle" 389 360 basechar 0
-AnchorPoint: "ogonek" 453 -4 basechar 0
 AnchorPoint: "below" 392 0 basechar 0
 AnchorPoint: "above" 392 729 basechar 0
 LayerCount: 2
@@ -195853,7 +195847,6 @@ Encoding: 1943 1100103 6343
 Width: 633
 Flags: HMW
 AnchorPoint: "middle" 340 360 basechar 0
-AnchorPoint: "ogonek" 563 -1 basechar 0
 AnchorPoint: "below" 334 0 basechar 0
 AnchorPoint: "above" 334 729 basechar 0
 LayerCount: 2
@@ -196057,7 +196050,6 @@ Width: 382
 Flags: HW
 AnchorPoint: "middle" 190 360 basechar 0
 AnchorPoint: "above" 186 729 basechar 0
-AnchorPoint: "ogonek" 190 1 basechar 0
 AnchorPoint: "below" 190 0 basechar 0
 LayerCount: 2
 Fore
@@ -196083,7 +196075,6 @@ Encoding: 1954 1100114 6354
 Width: 678
 Flags: HW
 AnchorPoint: "middle" 343 445 basechar 0
-AnchorPoint: "ogonek" 355 -1 basechar 0
 AnchorPoint: "below" 345 2 basechar 0
 AnchorPoint: "above" 345 731 basechar 0
 LayerCount: 2
@@ -197176,9 +197167,7 @@ StartChar: handshape_llama
 Encoding: 2049 1100209 6449
 Width: 720
 Flags: HMW
-AnchorPoint: "topright" 596 729 basechar 0
 AnchorPoint: "middle" 358 367 basechar 0
-AnchorPoint: "ogonek" 447 1 basechar 0
 AnchorPoint: "below" 360 0 basechar 0
 AnchorPoint: "above" 360 729 basechar 0
 LayerCount: 2
