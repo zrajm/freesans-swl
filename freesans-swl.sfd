@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525181961
+ModificationTime: 1525182240
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195958,12 +195958,55 @@ EndChar
 
 StartChar: position_ears
 Encoding: 1934 1100094 6334
-Width: 800
+Width: 739
 Flags: HW
+AnchorPoint: "middle" 370 367 basechar 0
+AnchorPoint: "below" 370 0 basechar 0
+AnchorPoint: "above" 370 729 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+495 0 m 2
+ 418 0 l 1
+ 418 82 l 1
+ 448 82 l 2
+ 497 82 511 97 511 149 c 2
+ 511 215 l 2
+ 511 298 537 347 593 373 c 1
+ 532 397 511 438 511 530 c 2
+ 511 580 l 2
+ 511 632 497 647 448 647 c 2
+ 418 647 l 1
+ 418 729 l 1
+ 495 729 l 2
+ 564 729 604 681 604 598 c 2
+ 604 552 l 2
+ 604 459 632 414 697 414 c 1
+ 697 332 l 1
+ 632 332 604 286 604 194 c 2
+ 604 131 l 2
+ 604 48 564 0 495 0 c 2
+245 0 m 2
+ 176 0 136 48 136 131 c 2
+ 136 194 l 2
+ 136 286 108 332 43 332 c 1
+ 43 414 l 1
+ 108 414 136 459 136 552 c 2
+ 136 598 l 2
+ 136 681 176 729 245 729 c 2
+ 322 729 l 1
+ 322 647 l 1
+ 292 647 l 2
+ 243 647 229 632 229 580 c 2
+ 229 530 l 2
+ 229 438 208 397 147 373 c 1
+ 203 347 229 298 229 215 c 2
+ 229 149 l 2
+ 229 97 243 82 292 82 c 2
+ 322 82 l 1
+ 322 0 l 1
+ 245 0 l 2
+EndSplineSet
 EndChar
 
 StartChar: handshape_m
