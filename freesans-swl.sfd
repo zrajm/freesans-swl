@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1524955584
+ModificationTime: 1525164591
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195486,51 +195486,186 @@ EndChar
 
 StartChar: attitude_pointed_forward
 Encoding: 1924 1100084 6324
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_upward
 Encoding: 1925 1100085 6325
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_leftward
 Encoding: 1926 1100086 6326
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_forward
 Encoding: 1927 1100087 6327
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_upward
 Encoding: 1928 1100088 6328
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
@@ -196104,71 +196239,260 @@ EndChar
 
 StartChar: attitude_pointed_leftward
 Encoding: 1955 1100115 6355
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_rightward
 Encoding: 1956 1100116 6356
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_backward
 Encoding: 1957 1100117 6357
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_pointed_downward
 Encoding: 1958 1100118 6358
-Width: 800
+Width: 444
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+222 373 m 1
+ 444 373 l 1
+ 444 0 l 1
+ 222 0 l 1
+ 222 373 l 1
+222 729 m 1
+ 444 729 l 1
+ 444 373 l 1
+ 222 373 l 1
+ 222 729 l 1
+-50 414 m 1
+ 494 414 l 1
+ 494 332 l 1
+ -50 332 l 1
+ -50 414 l 1
+0 729 m 1
+ 222 729 l 1
+ 222 373 l 1
+ 0 373 l 1
+ 0 729 l 1
+0 373 m 1
+ 222 373 l 1
+ 222 0 l 1
+ 0 0 l 1
+ 0 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_rightward
 Encoding: 1959 1100119 6359
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_backward
 Encoding: 1960 1100120 6360
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: attitude_turned_downward
 Encoding: 1961 1100121 6361
-Width: 800
+Width: 0
+VWidth: 2000
 Flags: HW
 LayerCount: 2
-Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
+Back
+SplineSet
+-222 373 m 1
+ 0 373 l 1
+ 0 0 l 1
+ -222 0 l 1
+ -222 373 l 1
+-222 729 m 1
+ 0 729 l 1
+ 0 373 l 1
+ -222 373 l 1
+ -222 729 l 1
+-494 414 m 1
+ 50 414 l 1
+ 50 332 l 1
+ -494 332 l 1
+ -494 414 l 1
+-444 729 m 1
+ -222 729 l 1
+ -222 373 l 1
+ -444 373 l 1
+ -444 729 l 1
+-444 373 m 1
+ -222 373 l 1
+ -222 0 l 1
+ -444 0 l 1
+ -444 373 l 1
+EndSplineSet
 Colour: ffff00
 EndChar
 
