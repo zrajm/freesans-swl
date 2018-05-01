@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525164591
+ModificationTime: 1525173444
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -195489,6 +195489,7 @@ Encoding: 1924 1100084 6324
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -195518,7 +195519,19 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+181 622 m 1
+ 91 522 l 1
+ 43 570 l 1
+ 222 749 l 1
+ 401 570 l 1
+ 353 522 l 1
+ 263 622 l 1
+ 263 414 l 1
+ 181 414 l 1
+ 181 622 l 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_pointed_upward
@@ -195526,6 +195539,7 @@ Encoding: 1925 1100085 6325
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -195555,7 +195569,16 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+82 483 m 1
+ 24 541 l 1
+ 222 739 l 1
+ 420 541 l 1
+ 362 483 l 1
+ 222 623 l 1
+ 82 483 l 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_leftward
@@ -195563,6 +195586,7 @@ Encoding: 1926 1100086 6326
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -195591,8 +195615,41 @@ SplineSet
  -222 0 l 1
  -444 0 l 1
  -444 373 l 1
+-507 166 m 4
+ -507 269 -416 352 -304 352 c 4
+ -192 352 -101 269 -101 166 c 4
+ -101 63 -192 -20 -304 -20 c 4
+ -416 -20 -507 63 -507 166 c 4
+-413 166 m 4
+ -413 106 -364 58 -304 58 c 4
+ -244 58 -195 106 -195 166 c 4
+ -195 226 -244 274 -304 274 c 4
+ -364 274 -413 226 -413 166 c 4
+-212 -20 m 5
+ -212 352 l 5
+ -101 352 l 5
+ -101 -20 l 5
+ -212 -20 l 5
+-323 -20 m 5
+ -323 352 l 5
+ -101 352 l 5
+ -101 -20 l 5
+ -323 -20 l 5
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-323 272 m 1
+ -323 351 l 1
+ -317 352 -310 352 -304 352 c 0
+ -192 352 -101 269 -101 166 c 0
+ -101 63 -192 -20 -304 -20 c 0
+ -310 -20 -317 -20 -323 -19 c 1
+ -323 60 l 1
+ -317 59 -310 58 -304 58 c 0
+ -244 58 -195 106 -195 166 c 0
+ -195 226 -244 274 -304 274 c 0
+ -310 274 -317 273 -323 272 c 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_forward
@@ -195600,9 +195657,20 @@ Encoding: 1927 1100087 6327
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
+-425 166 m 0
+ -425 269 -334 352 -222 352 c 0
+ -110 352 -19 269 -19 166 c 0
+ -19 63 -110 -20 -222 -20 c 0
+ -334 -20 -425 63 -425 166 c 0
+-331 166 m 0
+ -331 106 -282 58 -222 58 c 0
+ -162 58 -113 106 -113 166 c 0
+ -113 226 -162 274 -222 274 c 0
+ -282 274 -331 226 -331 166 c 0
 -222 373 m 1
  0 373 l 1
  0 0 l 1
@@ -195628,8 +195696,26 @@ SplineSet
  -222 0 l 1
  -444 0 l 1
  -444 373 l 1
+-425 185 m 1
+ -19 185 l 1
+ -19 -20 l 1
+ -425 -20 l 1
+ -425 185 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-331 166 m 0
+ -331 106 -282 58 -222 58 c 0
+ -162 58 -113 106 -113 166 c 0
+ -113 172 -114 179 -115 185 c 1
+ -20 185 l 1
+ -19 179 -19 172 -19 166 c 0
+ -19 63 -110 -20 -222 -20 c 0
+ -334 -20 -425 63 -425 166 c 0
+ -425 172 -425 179 -424 185 c 1
+ -329 185 l 1
+ -330 179 -331 172 -331 166 c 0
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_upward
@@ -195637,6 +195723,7 @@ Encoding: 1928 1100088 6328
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -195665,8 +195752,29 @@ SplineSet
  -222 0 l 1
  -444 0 l 1
  -444 373 l 1
+-331 41 m 0
+ -331 -19 -282 -68 -222 -68 c 0
+ -162 -68 -113 -19 -113 41 c 0
+ -113 101 -162 150 -222 150 c 0
+ -282 150 -331 101 -331 41 c 0
+-425 41 m 0
+ -425 144 -334 228 -222 228 c 0
+ -110 228 -19 144 -19 41 c 0
+ -19 -62 -110 -146 -222 -146 c 0
+ -334 -146 -425 -62 -425 41 c 0
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-176 224 m 1
+ -176 82 l 1
+ -23 82 l 1
+ -23 0 l 1
+ -421 0 l 1
+ -421 82 l 1
+ -268 82 l 1
+ -268 224 l 1
+ -176 224 l 1
+EndSplineSet
 EndChar
 
 StartChar: relation_above
@@ -196242,6 +196350,7 @@ Encoding: 1955 1100115 6355
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -196271,7 +196380,19 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+146 613 m 1
+ 384 613 l 1
+ 384 531 l 1
+ 146 531 l 1
+ 245 442 l 1
+ 198 394 l 1
+ 20 572 l 1
+ 198 750 l 1
+ 245 702 l 1
+ 146 613 l 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_pointed_rightward
@@ -196279,6 +196400,7 @@ Encoding: 1956 1100116 6356
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -196308,7 +196430,19 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+298 613 m 1
+ 199 702 l 1
+ 246 750 l 1
+ 424 572 l 1
+ 246 394 l 1
+ 199 442 l 1
+ 298 531 l 1
+ 60 531 l 1
+ 60 613 l 1
+ 298 613 l 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_pointed_backward
@@ -196316,6 +196450,7 @@ Encoding: 1957 1100117 6357
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -196345,7 +196480,19 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+181 521 m 5
+ 181 729 l 5
+ 263 729 l 5
+ 263 521 l 5
+ 353 621 l 5
+ 401 573 l 5
+ 222 394 l 5
+ 43 573 l 5
+ 91 621 l 5
+ 181 521 l 5
+EndSplineSet
 EndChar
 
 StartChar: attitude_pointed_downward
@@ -196353,6 +196500,7 @@ Encoding: 1958 1100118 6358
 Width: 444
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" 222 0 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -196382,7 +196530,16 @@ SplineSet
  0 0 l 1
  0 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+82 739 m 1
+ 222 599 l 1
+ 362 739 l 1
+ 420 681 l 1
+ 222 483 l 1
+ 24 681 l 1
+ 82 739 l 1
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_rightward
@@ -196390,9 +196547,30 @@ Encoding: 1959 1100119 6359
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
+-353 166 m 0
+ -353 269 -262 352 -150 352 c 0
+ -38 352 53 269 53 166 c 0
+ 53 63 -38 -20 -150 -20 c 0
+ -262 -20 -353 63 -353 166 c 0
+-259 166 m 0
+ -259 106 -210 58 -150 58 c 0
+ -90 58 -41 106 -41 166 c 0
+ -41 226 -90 274 -150 274 c 0
+ -210 274 -259 226 -259 166 c 0
+-242 -20 m 1
+ -242 352 l 1
+ -131 352 l 1
+ -131 -20 l 1
+ -242 -20 l 1
+-353 -20 m 1
+ -353 352 l 1
+ -131 352 l 1
+ -131 -20 l 1
+ -353 -20 l 1
 -222 373 m 1
  0 373 l 1
  0 0 l 1
@@ -196419,7 +196597,20 @@ SplineSet
  -444 0 l 1
  -444 373 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-259 166 m 0
+ -259 106 -210 58 -150 58 c 0
+ -144 58 -137 59 -131 60 c 1
+ -131 -19 l 1
+ -137 -20 -144 -20 -150 -20 c 0
+ -262 -20 -353 63 -353 166 c 0
+ -353 269 -262 352 -150 352 c 0
+ -144 352 -137 352 -131 351 c 1
+ -131 272 l 1
+ -137 273 -144 274 -150 274 c 0
+ -210 274 -259 226 -259 166 c 0
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_backward
@@ -196427,9 +196618,20 @@ Encoding: 1960 1100120 6360
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
+-425 19 m 0
+ -425 122 -334 205 -222 205 c 0
+ -110 205 -19 122 -19 19 c 0
+ -19 -84 -110 -167 -222 -167 c 0
+ -334 -167 -425 -84 -425 19 c 0
+-331 19 m 0
+ -331 -41 -282 -89 -222 -89 c 0
+ -162 -89 -113 -41 -113 19 c 0
+ -113 79 -162 127 -222 127 c 0
+ -282 127 -331 79 -331 19 c 0
 -222 373 m 1
  0 373 l 1
  0 0 l 1
@@ -196455,8 +196657,26 @@ SplineSet
  -222 0 l 1
  -444 0 l 1
  -444 373 l 1
+-425 205 m 1
+ -19 205 l 1
+ -19 0 l 1
+ -425 0 l 1
+ -425 205 l 1
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-425 19 m 0
+ -425 122 -334 205 -222 205 c 0
+ -110 205 -19 122 -19 19 c 0
+ -19 13 -19 6 -20 0 c 1
+ -115 -0 l 1
+ -114 6 -113 13 -113 19 c 0
+ -113 79 -162 127 -222 127 c 0
+ -282 127 -331 79 -331 19 c 0
+ -331 13 -330 6 -329 0 c 1
+ -424 0 l 1
+ -425 6 -425 13 -425 19 c 0
+EndSplineSet
 EndChar
 
 StartChar: attitude_turned_downward
@@ -196464,6 +196684,7 @@ Encoding: 1961 1100121 6361
 Width: 0
 VWidth: 2000
 Flags: HW
+AnchorPoint: "below" -222 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -196492,8 +196713,29 @@ SplineSet
  -222 0 l 1
  -444 0 l 1
  -444 373 l 1
+-331 183 m 0
+ -331 123 -282 74 -222 74 c 0
+ -162 74 -113 123 -113 183 c 0
+ -113 243 -162 292 -222 292 c 0
+ -282 292 -331 243 -331 183 c 0
+-425 183 m 0
+ -425 286 -334 370 -222 370 c 0
+ -110 370 -19 286 -19 183 c 0
+ -19 80 -110 -4 -222 -4 c 0
+ -334 -4 -425 80 -425 183 c 0
 EndSplineSet
-Colour: ffff00
+Fore
+SplineSet
+-176 0 m 1
+ -268 0 l 1
+ -268 142 l 1
+ -421 142 l 1
+ -421 224 l 1
+ -23 224 l 1
+ -23 142 l 1
+ -176 142 l 1
+ -176 0 l 1
+EndSplineSet
 EndChar
 
 StartChar: relation_below
