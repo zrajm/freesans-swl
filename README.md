@@ -28,7 +28,8 @@ Using the Font
 Suggestions etc.
 ----------------
 
-Please send suggestions and/or bug reports to zrajm@zrajm.org.
+Please send suggestions and/or bug reports to zrajm@zrajm.org, or using the
+[GitHub Issue system][issue].
 
 This font is free to use (for both private and commercial purposes) under the
 [GNU General Public License].
@@ -43,3 +44,4 @@ This font is free to use (for both private and commercial purposes) under the
 [input]: https://zrajm.github.io/teckentranskription/
 [lexicon]: https://zrajm.github.io/teckentranskription/lexicon.html
 [intro]: https://zrajm.github.io/teckentranskription/intro.html
+[issue]: https://github.com/zrajm/freesans-swl/issues
