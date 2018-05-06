@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525224598
+ModificationTime: 1525605478
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -194946,12 +194946,45 @@ EndChar
 
 StartChar: position_mouth
 Encoding: 1884 1100044 6284
-Width: 800
+Width: 624
 Flags: HW
+AnchorPoint: "middle" 312 360 basechar 0
+AnchorPoint: "below" 312 0 basechar 0
+AnchorPoint: "above" 312 729 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+126 144 m 2
+ 126 126 143 106 177 85 c 0
+ 200 70 245 63 312 63 c 0
+ 379 63 424 70 447 85 c 0
+ 481 106 498 126 498 144 c 2
+ 498 150 l 1
+ 594 150 l 1
+ 594 144 l 2
+ 594 95 568 55 517 24 c 0
+ 466 -7 397 -23 312 -23 c 0
+ 228 -23 160 -6 108 28 c 0
+ 56 62 30 101 30 144 c 2
+ 30 150 l 1
+ 126 150 l 1
+ 126 144 l 2
+30 236 m 2
+ 30 287 56 329 108 363 c 0
+ 160 396 228 413 312 413 c 0
+ 397 413 466 397 517 366 c 0
+ 568 335 594 291 594 236 c 2
+ 594 232 l 1
+ 498 232 l 1
+ 498 236 l 2
+ 498 261 481 284 447 305 c 0
+ 424 320 379 327 312 327 c 0
+ 245 327 200 320 177 305 c 0
+ 143 284 126 261 126 236 c 2
+ 126 232 l 1
+ 30 232 l 1
+ 30 236 l 2
+EndSplineSet
 EndChar
 
 StartChar: u10C90D
