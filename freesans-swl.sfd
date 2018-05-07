@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525614668
+ModificationTime: 1525724987
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -305,6 +305,8 @@ StemSnapV 4 [93]
 ForceBold 5 false
 EndPrivate
 Grid
+-1000 879 m 0
+ 2000 879 l 1024
 -1000 467.5 m 0
  2000 467.5 l 1024
 -1000 357 m 0
