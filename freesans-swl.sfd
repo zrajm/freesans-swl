@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525796511
+ModificationTime: 1525797975
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -197383,12 +197383,12 @@ EndChar
 
 StartChar: modifier_medial_contact
 Encoding: 1969 1100129 6369
-Width: 800
+Width: 0
 Flags: HW
+AnchorPoint: "below" -155 0 mark 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+Refer: 1653 8226 S 1 0 0 1 -355 -233 2
 EndChar
 
 StartChar: motion_leftward
