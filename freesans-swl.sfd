@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1525786958
+ModificationTime: 1525787674
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -197557,12 +197557,30 @@ EndChar
 
 StartChar: motion_leftward_short
 Encoding: 1977 1100137 6377
-Width: 800
+Width: 642
 Flags: HW
+AnchorPoint: "above" 321 729 basechar 0
+AnchorPoint: "below" 321 0 basechar 0
+AnchorPoint: "middle" 321 360 basechar 0
 LayerCount: 2
 Fore
-Refer: 4634 9647 N 1 0 0 1 0 0 2
-Colour: ffff00
+SplineSet
+564 705 m 1
+ 227 705 l 1
+ 327 615 l 1
+ 279 567 l 1
+ 120 726 l 1
+ 120 567 l 1
+ 48 567 l 1
+ 48 925 l 1
+ 120 925 l 1
+ 120 766 l 1
+ 279 925 l 1
+ 327 877 l 1
+ 227 787 l 1
+ 564 787 l 1
+ 564 705 l 1
+EndSplineSet
 EndChar
 
 StartChar: motion_rightward_short
